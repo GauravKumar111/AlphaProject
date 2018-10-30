@@ -10,6 +10,7 @@
         <members>Project__c.Priority__c</members>
         <members>State_Capital__c.Capital__c</members>
         <members>State_Capital__c.State__c</members>
+        <members>Project__c.Project_Number__c</members>
         <name>CustomField</name>
     </types>
     <types>
